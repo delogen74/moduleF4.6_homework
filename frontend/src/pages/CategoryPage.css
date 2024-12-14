@@ -1,0 +1,23 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.recipe-list {
+  list-style: none;
+  padding: 0;
+}
+
+.recipe-item {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.recipe-item a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+.recipe-item a:hover {
+  text-decoration: underline;
+}

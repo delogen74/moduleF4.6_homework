@@ -1,0 +1,23 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+}
+
+.category-item {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.category-item a {
+  text-decoration: none;
+  color: blue;
+}
+
+.category-item a:hover {
+  text-decoration: underline;
+}
